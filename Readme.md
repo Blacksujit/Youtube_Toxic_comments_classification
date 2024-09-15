@@ -1,6 +1,7 @@
 # 🎯 YouTube Toxic Comment Classification Using BERT
 
-![Project Banner](https://user-images.githubusercontent.com/12345678/banner.jpg) <!-- Add your own project banner image here -->
+![image](https://github.com/user-attachments/assets/b5fd4135-0f9c-4b6c-9e20-93a18bdcc2b9)
+
 
 ## 🚀 Overview
 
