@@ -10,12 +10,7 @@ This project is designed to classify YouTube comments as **toxic** or **non-toxi
 The model is trained to identify toxicity, which is crucial for creating safer and more respectful online platforms. This project can be extended for different toxicity levels or used in moderation tools.
 
 ---
-
-## 🔎 Demo
-
-Here's a quick demo of the toxicity classification tool:
-
-![Toxicity Prediction Demo](https://user-images.githubusercontent.com/12345678/toxicity-demo.gif) <!-- Add a GIF demo or link to a video here -->
+ 
 
 ---
 
