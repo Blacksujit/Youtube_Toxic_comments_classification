@@ -37,9 +37,6 @@ The dataset consists of YouTube comments with corresponding labels indicating wh
   - `comment_id`: Unique identifier for each comment.
   - `content`: Text of the comment.
   - `label`: `1` for toxic comments, `0` for non-toxic comments.
-
-![Sample Dataset](https://user-images.githubusercontent.com/12345678/sample-dataset.png) <!-- Screenshot of your dataset here -->
-
 ---
 
 ## 💻 Installation
