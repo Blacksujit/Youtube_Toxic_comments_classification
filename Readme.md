@@ -11,13 +11,6 @@ The model is trained to identify toxicity, which is crucial for creating safer a
 
 ---
 
-## 🔎 Demo
-
-Here's a quick demo of the toxicity classification tool:
-
-![Toxicity Prediction Demo](https://user-images.githubusercontent.com/12345678/toxicity-demo.gif) <!-- Add a GIF demo or link to a video here -->
-
----
 
 ## 🗂️ Table of Contents
 
