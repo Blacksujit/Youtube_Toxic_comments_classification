@@ -11,6 +11,13 @@ The model is trained to identify toxicity, which is crucial for creating safer a
 
 ---
 
+## 🔎 Demo
+
+Here's a quick demo of the toxicity classification tool:
+
+![Toxicity Prediction Demo](https://user-images.githubusercontent.com/12345678/toxicity-demo.gif) <!-- Add a GIF demo or link to a video here -->
+
+---
 
 ## 🗂️ Table of Contents
 
@@ -35,9 +42,6 @@ The dataset consists of YouTube comments with corresponding labels indicating wh
   - `comment_id`: Unique identifier for each comment.
   - `content`: Text of the comment.
   - `label`: `1` for toxic comments, `0` for non-toxic comments.
-
-![Sample Dataset](https://user-images.githubusercontent.com/12345678/sample-dataset.png) <!-- Screenshot of your dataset here -->
-
 ---
 
 ## 💻 Installation
